@@ -56,7 +56,7 @@ void Player::printHand() {
 
 	//draw ¯¯¯¯¯ for each card.
 	for (int i = 0; i < numCards; i++) {
-		cout << "\t ¯¯¯¯¯";
+		cout << "\t ^^^^^";
 	}
 	cout << endl;
 }
