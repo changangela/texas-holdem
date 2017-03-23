@@ -1,4 +1,4 @@
-#include "player.h"
+#include "Player.h"
 
 #ifndef POKERGAME_H_
 #define POKERGAME_H_
